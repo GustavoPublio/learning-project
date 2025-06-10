@@ -1,0 +1,143 @@
+[33mcommit c9c3705dc606eb54ea865e392fb523fadb88b642[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 9 16:55:52 2025 -0300
+
+    Preparing sales search navigation views
+
+[33mcommit 93bffb69f189a892239605c60b32d75bb670db4e[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 9 16:26:01 2025 -0300
+
+    Exception handling for delete (referential integrity)
+
+[33mcommit 52179d111690d03a6a6d8aaedb806621590ecaeb[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 9 16:12:46 2025 -0300
+
+    Asynchronous operations using Tasks (async, await)
+
+[33mcommit 9ed64a1c4134bd786e70119483f2ee0687162da0[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 9 12:27:01 2025 -0300
+
+    Validation
+
+[33mcommit 304400ab70bcd7e22ee18dfe0e5a9932d2c6a1e0[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 9 10:12:09 2025 -0300
+
+    App locale, number and date formatting
+
+[33mcommit 5a362fabd4150de6fd1b09cfd69f69d8829d8974[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sun Jun 8 20:05:08 2025 -0300
+
+    Returning custom error page
+
+[33mcommit 3c17409d70f53eebc295b64df4a4b22c5742d533[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sun Jun 8 19:22:44 2025 -0300
+
+    Update seller and custom service exception
+
+[33mcommit f98e063e13d077fc74db2e2f071091bf1b8dcbd1[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sun Jun 8 18:12:49 2025 -0300
+
+    Seller details and eager loading
+
+[33mcommit 07b358dbcb6b0eca832c9163a9c224ca1239ee23[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sun Jun 8 18:01:11 2025 -0300
+
+    Delete seller
+
+[33mcommit 10037c604cad4be508b98e933d1c99d5c57a9de1[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sun Jun 8 17:42:09 2025 -0300
+
+    SellerFromViewModel and Department select component
+
+[33mcommit 06ed5c47c3a6c0c5d1eb97f9e567854f1d3cef19[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sat Jun 7 15:55:13 2025 -0300
+
+    Foreign key not null (referential integrity
+
+[33mcommit 244e9b35daf975248a2f7b1d055ef05dd61ae565[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sat Jun 7 14:58:57 2025 -0300
+
+    Simple Create form
+
+[33mcommit 50fc524fc9d6c658dfcca1b6c00b3b5aba48da85[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sat Jun 7 14:06:57 2025 -0300
+
+    SellerService and basic FindAll
+
+[33mcommit 8c231c052162272a8ef5f265b509cb023581d39d[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sat Jun 7 13:07:13 2025 -0300
+
+    SellersController
+
+[33mcommit 07d18895a106d6c5f715b5635f9c39c84dcc3909[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Sat Jun 7 12:42:58 2025 -0300
+
+    Seeding Service
+
+[33mcommit fb03a723a3160f9db1bd579c54bc7653aad6cff9[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Thu Jun 5 19:22:48 2025 -0300
+
+    Other entites and second migration
+
+[33mcommit a487f53b25c53297e1e380765887d41f6051307d[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Thu Jun 5 18:46:51 2025 -0300
+
+    Other entities and second migration
+
+[33mcommit f1a757aa92b65643e1e223c511548a76d8636e09[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Thu Jun 5 13:35:33 2025 -0300
+
+    Changing theme
+
+[33mcommit da661b38d112e7e727714f7c047c6cc88bd6020a[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Thu Jun 5 13:18:29 2025 -0300
+
+    MySQL adaptation and first migration
+
+[33mcommit 77ac2aec261aaf85db6ba9b313541f266b9b498f[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Tue Jun 3 11:16:37 2025 -0300
+
+    CRUD Scaffolding
+
+[33mcommit a292309c202a7cd06aa7d3cfd9981b51a750ae6b[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Tue Jun 3 11:11:45 2025 -0300
+
+    Deleting Department view and controller
+
+[33mcommit fe2e48cc8720c8c2b7d114bc85208f91f6171878[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Tue Jun 3 11:08:21 2025 -0300
+
+    First Model-Conntroller-View - Department
+
+[33mcommit 787eca091486adb0a2206cf41ee4b8d5b5b34219[m
+Author: Gustavo Públio <gustavopmagalhaes2017@outlook.com>
+Date:   Mon Jun 2 22:21:06 2025 -0300
+
+    Project created
+
+[33mcommit cfe069b1bab336a21fda948e48b3262da2e94d54[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Gustavo Públio <132524236+GustavoPublio@users.noreply.github.com>
+Date:   Mon Jun 2 22:16:06 2025 -0300
+
+    Initial commit
